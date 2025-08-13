@@ -1,0 +1,8 @@
+D 'mclest': Stata macros for multinomial conditional logit models Use mclest With STATA 19
+D
+F mclest.ado
+F mclest.hlp
+F mclgen.ado
+F mclgen.hlp
+F rc2.ado
+F rc2.hlp
